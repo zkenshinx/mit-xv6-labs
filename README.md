@@ -6,8 +6,8 @@ You can find solutions to labs in branches.
 
 Current progress:
 
-- [x] Lab Utilities
-- [ ] Lab System calls
+- [x] [Lab Utilities](https://github.com/zkenshinx/mit-xv6-labs/tree/lab-util)
+- [x] [Lab System calls](https://github.com/zkenshinx/mit-xv6-labs/tree/lab-syscall)
 - [ ] Lab Page tables
 - [ ] Lab Traps
 - [ ] Lab Copy on-write
